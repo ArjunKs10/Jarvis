@@ -1,0 +1,1 @@
+This is a simple Python-based voice assistant named Jarvis. It listens to your voice, understands basic commands, and does helpful things like playing music, telling the time, fetching Wikipedia info, cracking a joke, or even playing a guessing game with you.
